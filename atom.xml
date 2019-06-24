@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maoerniu.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-06-24T21:38:01.065Z</updated>
+    <title>二牛的博客</title>
+    <updated>2019-06-24T21:39:16.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://maoerniu.github.io"/>
     <link rel="self" href="https://maoerniu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>水滴石穿</subtitle>
     <logo>https://maoerniu.github.io/images/avatar.png</logo>
     <icon>https://maoerniu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 二牛的博客</rights>
     <entry>
         <title type="html"><![CDATA[Prometheus入门]]></title>
         <id>https://maoerniu.github.io/post/prometheus-ru-men</id>
